@@ -2,6 +2,10 @@
   "name": "eden-dusk",
   "displayName": "Eden Dusk",
   "description": "A dark theme that blends twilight hues and garden greens for a serene coding experience that embodies the close of day.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffcalaway/eden-dusk-theme.git"
+  },
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.88.0"
