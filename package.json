@@ -6,6 +6,7 @@
     "type": "git",
     "url": "https://github.com/jeffcalaway/eden-dusk-theme.git"
   },
+  "publisher": "jeffcalaway",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.88.0"
