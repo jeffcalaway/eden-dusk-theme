@@ -1,0 +1,21 @@
+{
+  "name": "eden-dusk",
+  "displayName": "Eden Dusk",
+  "description": "A dark theme that blends twilight hues and garden greens for a serene coding experience that embodies the close of day.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Eden Dusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Eden Dusk-color-theme.json"
+      }
+    ]
+  }
+}
