@@ -1,16 +1,17 @@
-# eden-dusk README
+<h1 align="center">Eden Dusk</h1>
 
-## Working with Markdown
+<br />
+<p align="center">✨ A tranquil, dark theme blending dark blues, soft purples, muted greens, and sunrise orange, designed for clarity and comfort during extended coding sessions deep into the night. 🌒</p>
+<br />
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![Sample 1](./images/sample1.jpg)
+![Sample 2](./images/sample2.jpg)
+![Sample 3](./images/sample3.jpg)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Changelog
 
-## For more information
+Changes are tracked [here](./CHANGELOG.md).
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## 🐺 License
 
-**Enjoy!**
+[MIT](./LICENSE)
