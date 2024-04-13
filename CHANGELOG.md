@@ -18,3 +18,7 @@ All notable changes to the "eden-dusk" extension will be documented in this file
 
 - New icon
 - Sample images
+
+## [1.2.1]
+
+- Update image resolution
