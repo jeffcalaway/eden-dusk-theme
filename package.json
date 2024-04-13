@@ -1,14 +1,14 @@
 {
   "name": "eden-dusk",
   "displayName": "Eden Dusk",
-  "description": "A dark theme that blends twilight hues and garden greens for a serene coding experience that embodies the close of day.",
+  "description": "A dark theme that blends twilight hues and garden greens.",
   "repository": {
     "type": "git",
     "url": "https://github.com/jeffcalaway/eden-dusk-theme.git"
   },
   "icon": "icon.png",
   "publisher": "jeffcalaway",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "engines": {
     "vscode": "^1.88.0"
   },
