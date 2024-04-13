@@ -14,6 +14,6 @@
 
 Changes are tracked [here](./CHANGELOG.md).
 
-## 🐺 License
+## License
 
 [MIT](./LICENSE)
