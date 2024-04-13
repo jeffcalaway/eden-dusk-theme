@@ -5,7 +5,9 @@
 <br />
 
 ![Sample 1](./images/sample1.jpg)
+<br />
 ![Sample 2](./images/sample2.jpg)
+<br />
 ![Sample 3](./images/sample3.jpg)
 
 ## Changelog
