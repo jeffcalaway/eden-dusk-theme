@@ -2056,6 +2056,34 @@
 		  "foreground": "#FFA8B7"
 		}
 	  },
+	  {
+		"name": "lua other variable",
+		"scope": "source.lua, variable.other.lua",
+		"settings": {
+		  "foreground": "#FFFFFF"
+		}
+	  },
+	  {
+		"name": "lua function",
+		"scope": "support.function.lua",
+		"settings": {
+		  "foreground": "#FFA236"
+		}
+	  },
+	  {
+		"name": "lua operator",
+		"scope": "keyword.operator.lua",
+		"settings": {
+		  "foreground": "#6E81B9"
+		}
+	  },
+	  {
+		"name": "powershell assignment",
+		"scope": "keyword.operator.assignment.powershell",
+		"settings": {
+		  "foreground": "#50C1A3"
+		}
+	  },
 	],
 	"colors": {
 	  "foreground": "#3A5998",
@@ -2092,7 +2120,7 @@
 	  "statusBar.foreground": "#3A5998",
 	  "statusBar.background": "#17203b",
 	  "statusBarItem.hoverBackground": "#ffffff1f",
-	  "statusBar.debuggingBackground": "#cc6633",
+	  "statusBar.debuggingBackground": "#50C1A3",
 	  "statusBar.debuggingForeground": "#ffffff",
 	  "statusBar.noFolderBackground": "#68217a",
 	  "statusBar.noFolderForeground": "#ffffff",
@@ -2258,7 +2286,7 @@
 	  "gitDecoration.stageDeletedResourceForeground": "#f93e87",
 	  "gitDecoration.stageModifiedResourceForeground": "#e2c08d",
 	  "gitDecoration.submoduleResourceForeground": "#8db9e2",
-	  "gitDecoration.untrackedResourceForeground": "#fcd21d",
+	  "gitDecoration.untrackedResourceForeground": "#3b7de6",
 	  "editorMarkerNavigation.background": "#17203bd9",
 	  "editorMarkerNavigationError.background": "#f93e87",
 	  "editorMarkerNavigationWarning.background": "#fcd21d",

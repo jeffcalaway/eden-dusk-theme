@@ -22,3 +22,8 @@ All notable changes to the "eden-dusk" extension will be documented in this file
 ## [1.2.1]
 
 - Update image resolution
+
+## [1.2.2]
+
+- Syntax colors for powershell/lua
+- New color for untracked git
