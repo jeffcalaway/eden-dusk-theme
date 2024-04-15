@@ -27,3 +27,7 @@ All notable changes to the "eden-dusk" extension will be documented in this file
 
 - Syntax colors for powershell/lua
 - New color for untracked git
+
+## [1.2.3]
+
+- Fix scope for pseudo elements in css
