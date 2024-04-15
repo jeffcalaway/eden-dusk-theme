@@ -2051,7 +2051,7 @@
 	  },
 	  {
 		"name": "Sass &__",
-		"scope": "entity.other.attribute-name.parent-selector-suffix.css, entity.other.attribute-name.pseudo-class.css",
+		"scope": "entity.other.attribute-name.parent-selector-suffix.css, entity.other.attribute-name.pseudo-class.css, entity.other.attribute-name.pseudo-element.css",
 		"settings": {
 		  "foreground": "#FFA8B7"
 		}
