@@ -2084,6 +2084,24 @@
 		  "foreground": "#50C1A3"
 		}
 	  },
+	  {
+		"scope": "entity.other.attribute-name.class.modifier.scss",
+        "settings": {
+            "foreground": "#D1F4EA"
+        }
+	  },
+	  {
+		"scope": "entity.other.attribute-name.class.modifier.ampersand.scss",
+        "settings": {
+            "foreground": "#50C1A3"
+        }
+	  },
+	  {
+		"scope": "string.interpolated.modifier-suffix.php",
+        "settings": {
+            "foreground": "#D1F4EA"
+        }
+	  },
 	],
 	"colors": {
 	  "foreground": "#3A5998",
@@ -2120,7 +2138,7 @@
 	  "statusBar.foreground": "#3A5998",
 	  "statusBar.background": "#17203b",
 	  "statusBarItem.hoverBackground": "#ffffff1f",
-	  "statusBar.debuggingBackground": "#50C1A3",
+	  "statusBar.debuggingBackground": "#953ef3",
 	  "statusBar.debuggingForeground": "#ffffff",
 	  "statusBar.noFolderBackground": "#68217a",
 	  "statusBar.noFolderForeground": "#ffffff",

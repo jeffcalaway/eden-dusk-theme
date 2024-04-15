@@ -1,0 +1,22 @@
+{   
+    "scopeName": "scss.injection",
+    "injectionSelector": "L:source.css.scss",
+    "patterns": [
+        {
+            "include": "#modifier"
+        },
+        {
+            "include": "#modifier-amp"
+        }
+    ],
+    "repository": {
+        "modifier": {
+            "match": "(?<=&)(--[a-zA-Z0-9_-]+)",
+            "name": "entity.other.attribute-name.class.modifier.scss"
+        },
+        "modifier-amp": {
+            "match": "&(?=--)",
+            "name": "entity.other.attribute-name.class.modifier.ampersand.scss"
+        }
+    } 
+} 

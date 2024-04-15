@@ -1,0 +1,15 @@
+{   
+    "scopeName": "php.injection",
+    "injectionSelector": "L:source.php",
+    "patterns": [
+        {
+            "include": "#modifier"
+        }
+    ],
+    "repository": {
+        "modifier": {
+            "match": "--([a-zA-Z0-9_-]+)(?=['\"])",
+            "name": "string.interpolated.modifier-suffix.php"
+        }
+    } 
+} 

@@ -31,3 +31,8 @@ All notable changes to the "eden-dusk" extension will be documented in this file
 ## [1.2.3]
 
 - Fix scope for pseudo elements in css
+
+## [1.3.0]
+
+- Add custom grammar patterns for scss and php identifying modifier classes
+- Changed status bar color when in debug mode
