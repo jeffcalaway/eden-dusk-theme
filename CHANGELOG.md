@@ -40,3 +40,7 @@ All notable changes to the "eden-dusk" extension will be documented in this file
 ## [1.3.1]
 
 - New icon
+
+## [1.3.2]
+
+- Final icon tweak
